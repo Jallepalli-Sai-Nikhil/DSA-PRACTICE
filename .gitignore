@@ -1,0 +1,14 @@
+# Ignore all .o files
+*.o
+
+# Ignore outDebug files
+outDebug
+
+# Ignore all .json files
+*.json
+
+# Ignore all build directories
+build/
+**/build/
+
+
