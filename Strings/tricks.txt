@@ -1,0 +1,13 @@
+# Convert Character to uppercase
+
+char c = 'b';          // 'b' has ASCII value 98
+char upper = c & '_';  // '_' has ASCII value 95 (binary: 0101 1111)
+
+
+# Convert character to lowercase
+
+char c = 'B';
+char lower = c - 'A' + 'a';  // 'b'
+
+
+#  
